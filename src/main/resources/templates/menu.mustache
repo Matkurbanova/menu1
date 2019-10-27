@@ -1,0 +1,61 @@
+
+{{>header}}
+
+
+{{>navigation}}
+{{>carousel}}
+<body style="background-color:#212529;">
+</body>
+    <div align="center">
+
+<a class="btn btn-secondary" href="/menu/all dishes" role="button">Все блюда</a>
+<a class="btn btn-secondary" href="/menu/breakfast" role="button">Завтраки</a>
+<a class="btn btn-secondary" href="/menu/salads" role="button">Салаты</a>
+<a class="btn btn-secondary" href="/menu/soups" role="button">Супы</a>
+<a class="btn btn-secondary" href="/menu/pizza" role="button">Пицца</a>
+<a class="btn btn-secondary" href="/menu/meat dishes" role="button">Блюды из мяса</a>
+<a class="btn btn-secondary" href="/menu/seafood dishes" role="button">Блюда из морепродуктов</a>
+<a class="btn btn-secondary" href="/menu/fast food" role="button">Фасфуд</a>
+<a class="btn btn-secondary" href="/menu/dessert" role="button">Десерт</a>
+<a class="btn btn-secondary" href="/menu/National cuisine" role="button">Национальная кухня</a>
+<a class="btn btn-secondary" href="/menu/the drinks" role="button">Напитки</a>
+
+
+
+<h2 class="title" style="font-weight:normal">
+    {{#menuTitle}}
+        {{menuTitle}}
+    {{/menuTitle}}
+</h2>
+
+
+
+<div class="row">
+
+
+    {{#menu}}
+
+
+        <div class="card" style="width: 18rem;margin-left:2rem ; margin-top:2rem">
+            <img src="/images/{{image}}" class="card-img-top" style="height: 200px" >
+            <div class="card-body">
+                <h5 class="card-title">{{name}}</h5>
+                <p class="card-text">{{description}}</p>
+                <p class="card-text"> Price {{price }}</p>
+                <p class="card-text"> Amount {{amount }}</p>
+
+
+                <a href="#" class="btn btn-primary" onclick="addToCart({{id}})">Add to card</a>
+            </div>
+        </div>
+
+
+
+
+
+    {{/menu}}
+</div>
+</div>
+
+</body>
+</html>
