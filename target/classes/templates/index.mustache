@@ -1,0 +1,18 @@
+{{>header}}
+<body style="background-color:#e3e9e5;">
+</body>
+<div class="my-container">
+    <img src="../static">
+    <h2>Авторизация</h2>
+    <p>{{message}}</p>
+    <form action="/login" method="POST" >
+
+        <br>
+        <input type="text" name="login" placeholder="login">
+        <br>
+        <input type="Password" name="password" placeholder="Password">
+        <br>
+        <button type="submit">Войти</button>
+    </form>
+</div>
+<body>

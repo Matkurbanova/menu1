@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7f7fcf8-6ed7-4e57-ad02-755125e52543" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toString</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files (x86)\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="menu1/invalid/Spring" />
+      <facet id="menu1/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3uaDqFI2JMy9m7ZEjJwfuTwmU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\menu1\menu1\src\main\resources\static" />
+      <recent name="E:\menu1\menu1\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\menu1\menu1\src\main\resources\static\images" />
+      <recent name="E:\menu1\menu1\src\main\resources\static" />
+      <recent name="E:\menu1\menu1\src\main\resources\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Menu1Application">
+    <configuration name="Menu1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="menu1.Menu1Application" />
+      <module name="menu1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="menu1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Menu1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="menu1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="menu1.Menu1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Menu1Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Menu1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7f7fcf8-6ed7-4e57-ad02-755125e52543" name="Default Changelist" comment="" />
+      <created>1557067940341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557067940341</updated>
+      <workItem from="1557067945754" duration="10189000" />
+      <workItem from="1557152221160" duration="6622000" />
+      <workItem from="1557248838317" duration="11126000" />
+      <workItem from="1557324957946" duration="15247000" />
+      <workItem from="1557519265889" duration="1014000" />
+      <workItem from="1557568961072" duration="6146000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit menu">
+      <created>1572214182997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572214182997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit menu">
+      <created>1577952486095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577952486095</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Menu for restaurants (Intellij Idea)">
+      <created>1578777865209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578777865209</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50344000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit menu" />
+    <MESSAGE value="Menu for restaurants (Intellij Idea)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu for restaurants (Intellij Idea)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578391593771">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="531" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1578391593771" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1578778248701">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1578778248701" />
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1578778391682">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1578778391682" />
+    <state width="1322" height="265" key="GridCell.Tab.0.bottom" timestamp="1578777689817">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="265" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578777689817" />
+    <state width="1322" height="265" key="GridCell.Tab.0.center" timestamp="1578777689816">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="265" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578777689816" />
+    <state width="1322" height="265" key="GridCell.Tab.0.left" timestamp="1578777689816">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="265" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578777689816" />
+    <state width="1322" height="265" key="GridCell.Tab.0.right" timestamp="1578777689816">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="265" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578777689816" />
+    <state x="395" y="83" key="MultipleFileMergeDialog" timestamp="1578778360987">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="395" y="83" key="MultipleFileMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1578778360987" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1578777830083">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1578777830083" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1578778339077">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1578778339077" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1578561066485">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1578561066485" />
+    <state x="513" y="158" key="svn.repositoryBrowser" timestamp="1578777497179">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="158" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1578777497179" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/menu1/Controllers/IndexController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/menu1/Controllers/IndexController.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/menu1/Menu1Application.java</url>
+          <line>8</line>
+          <properties class="menu1.Menu1Application" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

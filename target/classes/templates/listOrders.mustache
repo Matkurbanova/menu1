@@ -1,0 +1,40 @@
+{{>header}}
+{{>navigation}}
+
+
+
+
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Date</th>
+        <th scope="col">Menu ID</th>
+        <th scope="col">Comment</th>
+        <th scope="col">Time</th>
+        <th scope="col">Count</th>
+        <th scope="col">Status</th>
+        <th scope="col">User</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{#listOrders}}
+        <tr>
+            <th scope="col">{{id}}</th>
+            <th scope="col">{{getTime}}</th>
+            <th scope="col">{{menu.name}}</th>
+            <th scope="col">{{comment}}</th>
+            <th scope="col">{{time}}</th>
+            <th scope="col">{{count}}</th>
+            <th scope="col">{{getOrderStatus}}
+                <button class="btn">Готово
+                </button>
+            </th>
+            <th scope="col">{{user.name}}</th>
+
+        </tr>
+
+    {{/listOrders}}
+    </tbody>
+</table>
