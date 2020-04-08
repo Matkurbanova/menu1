@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7f7fcf8-6ed7-4e57-ad02-755125e52543" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578778433325</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Menu for restaurants (Intellij Idea) update">
+      <created>1586289913411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586289913411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -201,26 +206,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586289754340" />
-    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1582312698710">
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1586292452528">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1582312698710" />
-    <state width="1322" height="265" key="GridCell.Tab.0.bottom" timestamp="1586272616967">
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586292452528" />
+    <state width="1322" height="265" key="GridCell.Tab.0.bottom" timestamp="1586292461490">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="265" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586272616967" />
-    <state width="1322" height="265" key="GridCell.Tab.0.center" timestamp="1586272616967">
+    <state width="1322" height="265" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586292461490" />
+    <state width="1322" height="265" key="GridCell.Tab.0.center" timestamp="1586292461490">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="265" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586272616967" />
-    <state width="1322" height="265" key="GridCell.Tab.0.left" timestamp="1586272616967">
+    <state width="1322" height="265" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586292461490" />
+    <state width="1322" height="265" key="GridCell.Tab.0.left" timestamp="1586292461490">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="265" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586272616967" />
-    <state width="1322" height="265" key="GridCell.Tab.0.right" timestamp="1586272616967">
+    <state width="1322" height="265" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586292461490" />
+    <state width="1322" height="265" key="GridCell.Tab.0.right" timestamp="1586292461490">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="265" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586272616967" />
+    <state width="1322" height="265" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586292461490" />
     <state x="395" y="83" key="MultipleFileMergeDialog" timestamp="1578778360987">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -229,18 +234,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586272107122" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1578778444296">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586345764033">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1578778444296" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586345764033" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586289455157">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586289455157" />
-    <state x="492" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586289556295">
+    <state x="492" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586345748814">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1586289556295" />
+    <state x="492" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1586345748814" />
     <state x="513" y="158" key="svn.repositoryBrowser" timestamp="1578777497179">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
